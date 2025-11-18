@@ -1,0 +1,2 @@
+El modelo para FastText en español de México se encuentra en la siguiente liga:
+https://mega.nz/file/3YkVQCjQ#poRRZ2Q70uzk8jkJw61iYmRbHeqJmCgn4FtNfw7qbY0
